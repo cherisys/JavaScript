@@ -1,0 +1,12 @@
+.search-input {
+    border:solid 1px black;
+    display:block;
+    width:90%;
+    padding:8px;
+    font:bold 14px verdana;
+}
+
+.show-in-stock {
+    border:solid 1px black;
+    display:inline-block;
+}
